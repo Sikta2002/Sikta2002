@@ -41,6 +41,7 @@
 
 <h2 align = "center">
 <img src="https://media1.giphy.com/media/4uyBfovScfdhQAqXQ9/giphy.gif?cid=ecf05e4782jnhubezkdqdnd5x63r5u8tdgnb0cohx40lz67v&rid=giphy.gif&ct=s" width = "50"> Thanks for Visiting! <img src="https://media1.giphy.com/media/4uyBfovScfdhQAqXQ9/giphy.gif?cid=ecf05e4782jnhubezkdqdnd5x63r5u8tdgnb0cohx40lz67v&rid=giphy.gif&ct=s" width = "50"> </h2>
+<br>
 <div align="center">
 <img src="https://64.media.tumblr.com/tumblr_m1082bORxM1r04n3so1_500.gifv">
 </div>
