@@ -3,13 +3,13 @@
 </p>
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> How are you doing ?</h1>
 <hr>
-<h5 align="center">
+<p align="center">
 <code>
     <a href="https://www.linkedin.com/in/sikta-mohanty-046b791b0/" title="LinkedIn Profile"><img width="22" src="https://github.com/Sikta2002/Sikta2002/blob/main/linkedin.png"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/_siktamohanty_/" title="Instagram Profile"><img width="22" src="https://www.regencysecurity.co.uk/wp-content/uploads/2018/09/instagram-logo-png-transparent-background-1024x1024-300x300.png"> Instagram</a></code>
   <code><a href="https://twitter.com/moonsikta" title="Twitter Profile"><img width="22" src="https://github.com/Sikta2002/Sikta2002/blob/main/Twitter.png"> Twitter</a></code>
   <code><a href="mailto:mohanty.moonsikta@gmail.com?body=Hey!" title="Gmail"><img width="22" src="https://github.com/Sikta2002/Sikta2002/blob/main/Gmail.png"> Gmail</a></code>
-</h5>
+</p>
 <h3 align = "center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
 <hr>
