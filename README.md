@@ -11,6 +11,7 @@
 </p>
 <h3 align = "center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
+<hr>
 <p align = "center">
  <img src="https://media4.giphy.com/media/t8WhfLXvdufhY1shac/giphy.gif?cid=ecf05e47kht9w302pda4naj9gtvb2u69hsnm2ikovzkya177&rid=giphy.gif&ct=s" width = "30"> I'm currently a student pursuing my Bachelor of Technology in Computer Science & System Engineering (CSSE) from <a href="https://kiit.ac.in/?__cf_chl_managed_tk__=ZkwOdbgRXxF1AIQUdCLxhfF4.qPI93znXJ1Gkd5ZR5s-1636089809-0-gaNycGzNBxE"> KIIT University</a>, Bhubaneshwar.
 <br>
@@ -22,7 +23,6 @@
 <br>
 <img src="https://media0.giphy.com/media/gffPUSEsc2R476R64M/giphy.gif?cid=ecf05e478v625hjqduhebvj5kxx05j78iczy0nhddpndqnc1&rid=giphy.gif&ct=s" width = "25"> Fun Fact : People call me Moon.
 </p>
-<hr>
 <h2 align = "center"><img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e47cox9gjt6suykbjg57bbnkavvm05wswc9ecc3rk4o&rid=giphy.gif&ct=s" width = "60">Tools<img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e47cox9gjt6suykbjg57bbnkavvm05wswc9ecc3rk4o&rid=giphy.gif&ct=s" width = "60"></h2>
 <p align = "center">
 <code><img title="C++" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png"></code>
