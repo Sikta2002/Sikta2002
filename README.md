@@ -1,14 +1,14 @@
 <p align="center">
- <img  width="700" height="350" src="https://github.com/Sikta2002/Sikta2002/blob/main/Intro.gif">
+ <img  width="700" height="350" src="https://github.com/Sikta2002/Additional-Profile/blob/main/Intro.gif">
 </p>
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> How are you doing ?</h1>
 <br>
 <p align="center">
 <code>
-    <a href="https://www.linkedin.com/in/sikta-mohanty-046b791b0/" title="LinkedIn Profile"><img width="22" src="https://github.com/Sikta2002/Sikta2002/blob/main/linkedin.png"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/sikta-mohanty-046b791b0/" title="LinkedIn Profile"><img width="22" src="https://github.com/Sikta2002/Additional-Profile/blob/main/linkedin.png"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/_siktamohanty_/" title="Instagram Profile"><img width="22" src="https://www.regencysecurity.co.uk/wp-content/uploads/2018/09/instagram-logo-png-transparent-background-1024x1024-300x300.png"> Instagram</a></code>
-  <code><a href="https://twitter.com/moonsikta" title="Twitter Profile"><img width="22" src="https://github.com/Sikta2002/Sikta2002/blob/main/Twitter.png"> Twitter</a></code>
-  <code><a href="mailto:mohanty.moonsikta@gmail.com?body=Hey!" title="Gmail"><img width="22" src="https://github.com/Sikta2002/Sikta2002/blob/main/Gmail.png"> Gmail</a></code>
+  <code><a href="https://twitter.com/moonsikta" title="Twitter Profile"><img width="22" src="https://github.com/Sikta2002/Additional-Profile/blob/main/Twitter.png"> Twitter</a></code>
+  <code><a href="mailto:mohanty.moonsikta@gmail.com?body=Hey!" title="Gmail"><img width="22" src="https://github.com/Sikta2002/Additional-Profile/blob/main/Gmail.png"> Gmail</a></code>
 </p>
 <h3 align = "center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
@@ -31,7 +31,7 @@
 <code><img title="C++" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png"></code>
 <code><img title="C" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png"></code>
 <code><img title="Python" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"></code>
-<code><img title="Problem Solving" height="40" src="https://github.com/Sikta2002/Sikta2002/blob/main/Rubiks-Cube.png"></code>
+<code><img title="Problem Solving" height="40" src="https://github.com/Sikta2002/Additional-Profile/blob/main/Rubiks-Cube.png"></code>
 <code><img title="MySQL" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-6-logo-png-transparent.png"></code>
 <code><img title="HTML5" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png"></code>
 <code><img title="CSS" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"></code>
