@@ -2,6 +2,7 @@
  <img  width="700" height="350" src="https://github.com/Sikta2002/Sikta2002/blob/main/Intro.gif">
 </p>
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> How are you doing ?</h1>
+<br>
 <p align="center">
 <code>
     <a href="https://www.linkedin.com/in/sikta-mohanty-046b791b0/" title="LinkedIn Profile"><img width="22" src="https://github.com/Sikta2002/Sikta2002/blob/main/linkedin.png"> LinkedIn</a></code>
@@ -25,6 +26,7 @@
 </p>
 <hr>
 <h2 align = "center"><img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e47cox9gjt6suykbjg57bbnkavvm05wswc9ecc3rk4o&rid=giphy.gif&ct=s" width = "60">Tools<img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e47cox9gjt6suykbjg57bbnkavvm05wswc9ecc3rk4o&rid=giphy.gif&ct=s" width = "60"></h2>
+<br>
 <p align = "center">
 <code><img title="C++" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png"></code>
 <code><img title="C" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png"></code>
