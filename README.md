@@ -1,8 +1,8 @@
 <p align="center">
  <img  width="700" height="350" src="https://github.com/Sikta2002/Sikta2002/blob/main/Intro.gif">
 </p>
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> How are you doing ? </h1>
-<hr style = "height:4px" noshade>
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> How are you doing ?</h1>
+<hr>
 <h5 align="center">
 <code>
     <a href="https://www.linkedin.com/in/sikta-mohanty-046b791b0/" title="LinkedIn Profile"><img width="22" src="C:\Users\KIIT\Desktop\Linkedin.png"> LinkedIn</a></code>
@@ -41,7 +41,7 @@
 
 <h2 align = "center">
 <img src="https://media1.giphy.com/media/4uyBfovScfdhQAqXQ9/giphy.gif?cid=ecf05e4782jnhubezkdqdnd5x63r5u8tdgnb0cohx40lz67v&rid=giphy.gif&ct=s" width = "50"> Thanks for Visiting! <img src="https://media1.giphy.com/media/4uyBfovScfdhQAqXQ9/giphy.gif?cid=ecf05e4782jnhubezkdqdnd5x63r5u8tdgnb0cohx40lz67v&rid=giphy.gif&ct=s" width = "50"> </h2>
-<hr style = "height:4px" noshade>
+<hr>
 <div align="center">
 <img src="https://64.media.tumblr.com/tumblr_m1082bORxM1r04n3so1_500.gifv">
 </div>
