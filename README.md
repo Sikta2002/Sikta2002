@@ -1,7 +1,7 @@
 <p align="center">
  <img  width="700" height="350" src="https://github.com/Sikta2002/Additional-Profile/blob/main/Intro.gif">
 </p>
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> How are you doing ?</h1>
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> How are you doing ?</h1>
 <br>
 <p align="center">
 <code>
