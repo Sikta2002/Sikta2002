@@ -1,4 +1,4 @@
-<h3 align="center">Hey There, I'm Sikta Mohanty <img src="./Social/Hi.gif" width="25px"></h3>
+<h2 align="center">Hey There, I'm Sikta Mohanty <img src="./Social/Hi.gif" width="25px"></h2>
 <hr>
 <h4 align="center">📬 Find Me At</h4>
 <p align="center">
