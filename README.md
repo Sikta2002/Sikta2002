@@ -23,7 +23,7 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
 <code><img title="MySQL" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-6-logo-png-transparent.png"></code>
 <code><img title="HTML5" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png"></code>
 <code><img title="CSS" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"></code>
-<code><img title="JavaScript" height="40" src="./Social/JavaScript.png"></code>
+<code><img title="JavaScript" height="35" src="./Social/JavaScript.png"></code>
 <code><img title="Git" height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"></code>
 <code><img title="GitHub" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"></code>
 </p>
